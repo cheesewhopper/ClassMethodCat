@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteCat", "CuteCat\CuteCat.csproj", "{35593449-EB7C-45D1-AB2A-C48DC3CB1CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35593449-EB7C-45D1-AB2A-C48DC3CB1CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35593449-EB7C-45D1-AB2A-C48DC3CB1CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35593449-EB7C-45D1-AB2A-C48DC3CB1CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35593449-EB7C-45D1-AB2A-C48DC3CB1CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A763122C-AED4-41E9-A017-FFFD4A25B513}
+	EndGlobalSection
+EndGlobal

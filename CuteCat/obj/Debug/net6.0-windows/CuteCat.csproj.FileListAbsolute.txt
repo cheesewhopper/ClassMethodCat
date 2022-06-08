@@ -1,0 +1,17 @@
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\bin\Debug\net6.0-windows\CuteCat.exe
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\bin\Debug\net6.0-windows\CuteCat.deps.json
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\bin\Debug\net6.0-windows\CuteCat.runtimeconfig.json
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\bin\Debug\net6.0-windows\CuteCat.dll
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\bin\Debug\net6.0-windows\CuteCat.pdb
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.csproj.AssemblyReference.cache
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.Form1.resources
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.csproj.GenerateResource.cache
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.AssemblyInfoInputs.cache
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.AssemblyInfo.cs
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.csproj.CoreCompileInputs.cache
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.dll
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\refint\CuteCat.dll
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.pdb
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\CuteCat.genruntimeconfig.cache
+C:\Users\lcg80\source\repos\CuteCat\CuteCat\obj\Debug\net6.0-windows\ref\CuteCat.dll
